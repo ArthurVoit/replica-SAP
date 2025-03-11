@@ -1,0 +1,42 @@
+body{
+    background-color: white;
+}
+
+.navbar{ 
+    background-color: rgb(182, 182, 182);
+}
+
+.amarelo{
+    background-color: yellow;
+    width: 100%;
+    height: 20px;
+}
+
+.flex{
+    display: flex;
+}
+
+.buttonNav{
+    padding-right: 5px;
+    cursor: pointer;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(140 140 140);
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+}   
+th{
+    border: 1px solid rgb(160 160 160);
+  padding: 8px 10px; 
+}
+
+.direita{
+    padding-right: 250px;
+}
+
+.overview{
+    padding-left: 20px;
+}
